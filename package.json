@@ -5,6 +5,7 @@
   "scripts": {
     "start": "npm run tsc && node ./dist",
     "test": "jest",
+    "test:coverage": "jest --coverage",
     "tsc": "tsc"
   },
   "keywords": [],
